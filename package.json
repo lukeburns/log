@@ -1,0 +1,14 @@
+{
+  "name": "through2-log",
+  "version": "0.0.1",
+  "description": "Log the entire output of a stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Burns <lukemburns@gmail.com> (http://lukeburns.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "through2-pool": "0.0.2"
+  }
+}
